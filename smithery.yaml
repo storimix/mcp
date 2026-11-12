@@ -1,0 +1,23 @@
+name: storimix
+displayName: Storimix Visual Continuity & Reference Engine
+description: Access your Storimix character turnaround sheets, face portraits, and world art styles directly inside Claude, Gemini, and image generation workflows.
+version: 1.0.0
+homepage: https://storimix.com
+repository: https://github.com/storimix/mcp
+license: Apache-2.0
+tags:
+  - image-generation
+  - character-consistency
+  - storytelling
+  - creative
+  - art-reference
+connections:
+  type: remote
+  transport: sse
+  endpoint: https://aygvhavchenfpwqzgkue.supabase.co/functions/v1/mcp
+  auth:
+    type: oauth2
+    authorizationUrl: https://aygvhavchenfpwqzgkue.supabase.co/auth/v1/oauth/authorize
+    tokenUrl: https://aygvhavchenfpwqzgkue.supabase.co/auth/v1/oauth/token
+    scopes:
+      - authenticated

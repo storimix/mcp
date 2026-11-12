@@ -1,0 +1,23 @@
+{
+  "name": "@storimix/mcp",
+  "version": "1.0.0",
+  "description": "Storimix Visual Continuity & Reference Engine (Remote MCP Server)",
+  "homepage": "https://storimix.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storimix/mcp.git"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "storimix",
+    "image-generation",
+    "character-consistency",
+    "gemini",
+    "nanobanana",
+    "midjourney",
+    "firefly"
+  ],
+  "author": "Storimix <support@storimix.com>",
+  "license": "Apache-2.0"
+}
