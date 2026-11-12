@@ -1,4 +1,4 @@
-# Storimix Visual Continuity & Reference Engine (MCP Server)
+# Storimix Style & Character Consistency (MCP Server)
 
 [![MCP Standard](https://img.shields.io/badge/MCP-Standard-purple.svg)](https://modelcontextprotocol.io/)
 [![OAuth 2.0 PKCE](https://img.shields.io/badge/Auth-OAuth_2.0_PKCE-blue.svg)](https://oauth.net/2/pkce/)
