@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.storimix/mcp",
+  "title": "Storimix – Style & Character Consistency",
+  "description": "Universal visual reference and character consistency engine. Access character turnaround sheets, face portraits, and world art styles directly inside Claude, Gemini, and image generation workflows.",
+  "version": "1.0.0",
+  "homepage": "https://storimix.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storimix/mcp"
+  },
+  "license": "Apache-2.0",
+  "remote": {
+    "url": "https://aygvhavchenfpwqzgkue.supabase.co/functions/v1/mcp",
+    "transport": "sse"
+  }
+}
