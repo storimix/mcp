@@ -6,13 +6,13 @@
 
 The official **Remote Model Context Protocol (MCP)** server for [Storimix](https://storimix.com).
 
-Connect external AI assistants (Claude, Gemini, Cursor, Antigravity) and design platforms directly to your Storimix account. Storimix serves as the **authoritative visual reference and continuity infrastructure**, providing clean turnaround sheets, facial portraits, and style anchors to maintain character likeness across any generative AI platform.
+Connect external AI assistants (Claude, Gemini, Cursor, Antigravity) and design platforms directly to your Storimix account. Storimix serves as the **authoritative visual reference and consistency infrastructure**, providing clean turnaround sheets, facial portraits, and style anchors to maintain character likeness across any generative AI platform.
 
 ---
 
 ## Key Capabilities
 
-* 🎨 **Visual Continuity Authority**: Feeds exact character turnaround sheets and face crops directly into external image generation prompts.
+* 🎨 **Style & Character Consistency Authority**: Feeds exact character turnaround sheets and face crops directly into external image generation prompts.
 * ⚡ **Model-Specific Conditioning**: Automatically structures visual references for:
   * **Gemini & NanoBanana**: Injects multi-image reference arrays and style-first prompt prefixes.
   * **Midjourney**: Generates calibrated `--cref <url> --cw 70` and `--sref <url>` flags.
